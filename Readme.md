@@ -37,18 +37,17 @@ Prompt-Engineering-Tasks/
 │
 ├── task1-website-copy/
 │   ├── prompt.md
-│   └── output.md
+│   
 │
 ├── task2-ugc-ads/
 │   ├── prompt.md
-│   └── output.md
+│   
 │
 └── task3-seo-content/
     ├── prompt.md
-    └── output.md
+
 ```
 
 Each task folder contains:
 
 - The prompt used to generate the content.
-- The AI-generated output.
